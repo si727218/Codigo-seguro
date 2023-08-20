@@ -1,10 +1,9 @@
+![markmap](images/markmap.svg)
+
 ---
 markmap:
   colorFreezeLevel: 5
 ---
-
-![markmap](images/markmap.svg)
-
 
 # Desarrollo Software Seguro
 
