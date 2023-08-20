@@ -3,7 +3,7 @@ markmap:
   colorFreezeLevel: 5
 ---
 
-![markmap](https://github.com/si727218/Codigo-seguro/assets/71650592/ca6c6ec5-6ff5-4897-8e7d-4f922aa053f9)
+![markmap](images/markmap.svg)
 
 
 # Desarrollo Software Seguro
@@ -36,3 +36,12 @@ markmap:
   - ICS
   - OT
 - Grandes corporaciones
+
+
+Referencias
+- https://www.hackerone.com/knowledge-center/devops-security-challenges-and-6-critical-best-practices
+- https://www.sans.org/white-papers/think-like-a-hacker-inside-the-minds-and-methods-of-modern-adversaries/
+- https://mdevelopers.com/blog/security-in-software-development-risks-practices-and-more
+- https://www.techtarget.com/searchsecurity/definition/advanced-persistent-threat-APT
+- https://commercial.allianz.com/news-and-insights/expert-risk-articles/cyber-attacks-on-critical-infrastructure.html
+- https://securityintelligence.com/news/high-impact-attacks-on-critical-infrastructure-climb-140/
