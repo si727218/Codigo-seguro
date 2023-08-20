@@ -1,4 +1,4 @@
-![markmap](images/markmap.png)
+![markmap](images/screen.png)
 
 ---
 markmap:
